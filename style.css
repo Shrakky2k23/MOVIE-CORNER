@@ -11,15 +11,15 @@
 }
 
 :root {
-    --main-color: #ffb43a;
-    --hover-color: hsl(37, 94%, 57%);
-    --body-color: #1e1e2a;
-    --container-color: #2d2e37;
-    --text-color: #fcfeff;
+    --main-color: #d60084;
+    --hover-color: hsl(57, 100%, 50%);
+    --body-color: #313193;
+    --container-color: #584984;
+    --text-color: #ffffff;
 
     /* Pastel gradient colors */
-    --gradient-start: #a7c5e0; /* Light blue */
-    --gradient-end: #d6a4e0;   /* Light purple */
+    --gradient-start: #033e71; /* Light blue */
+    --gradient-end: #042a1a;   /* Light purple */
 
     /* Custom scroll bar */
     html::-webkit-scrollbar {
